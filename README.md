@@ -1,4 +1,4 @@
-# React + Vite
+<!-- # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -13,4 +13,31 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project. -->
+
+# ShopEasy - React Shopping Cart App
+
+ShopEasy is a simple frontend shopping website built using React and Tailwind CSS
+
+## Features
+
+- User Registration and Login System
+- Persistenet Login using LocalStorage
+- Add to Cart with confirmation modal
+- Remove items from cart
+- Dynamic cart count in NavBar
+- Total price Calculation
+- Multi-Page navigation (Home, Cart, Login, Register)
+- Responsive product grid layout
+
+## Tech Stack
+
+- React ( Functional Components & Hooks )
+- Tailwind CSS
+- LocalStorage (for storing users & cart data)
+
+## How to Run
+
+```bash
+npm install
+npm run dev
