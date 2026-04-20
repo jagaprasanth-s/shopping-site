@@ -30,6 +30,13 @@ ShopEasy is a simple frontend shopping website built using React and Tailwind CS
 - Multi-Page navigation (Home, Cart, Login, Register)
 - Responsive product grid layout
 
+## MarkDown
+- Clean and beginner-friendly project structure
+- Reusable components for better scalability
+- Simple state management using React Hooks
+- No External APIs used ( fully local data )
+- Easy to customize and extend with new features
+
 ## Tech Stack
 
 - React ( Functional Components & Hooks )
